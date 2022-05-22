@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "me mad >:("
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "me mad >:("
+		},
+		{
+			"offsets": [
+				-32,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "a"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "carter has no bitches left"
+		},
+		{
+			"offsets": [
+				-40,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "json is playing down now"
+		},
+		{
+			"offsets": [
+				-16,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "my brain is gone"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sex",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "json",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		0,
+		185
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

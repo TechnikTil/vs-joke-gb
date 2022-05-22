@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "json",
+		"player3": null,
+		"events": [
+			[
+				72600,
+				[
+					[
+						"Screen Shake",
+						"7, 1",
+						"7, 1"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"",
+						"sex",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "json"
+	}
+}

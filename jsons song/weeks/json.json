@@ -1,0 +1,32 @@
+{
+	"storyName": "3d json moment",
+	"difficulties": "Easy, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "i",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sex",
+		"",
+		"bfcolor"
+	],
+	"songs": [
+		[
+			"Spitting Facts",
+			"json",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
